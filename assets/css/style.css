@@ -1,0 +1,67 @@
+body{
+	background: url("../images/foggy_birds.png");
+	font-size: 18px;
+	font-family: 'Fjalla One', sans-serif;
+	color: turquoise;
+}
+
+.aboutMe {
+	width: 100%;
+	max-width: 800px;
+	margin: 0 auto;
+	clear: both;
+}
+
+nav {
+	float: right;
+	margin-top: 25px;
+	text-decoration: none;
+}
+
+h1, h2, h3, p {
+	margin-bottom: 20px;
+}
+
+.name {
+	margin-left: 20px;
+	padding-left: 20px;
+	float: left;
+	
+}
+
+.pagelinks {
+	font-size: 18px;
+	float: right;
+	margin: 0;
+	text-decoration: none;
+	}
+
+img {
+	padding-bottom: 25px;
+}
+
+h1{
+	font-size: 40px;
+	float: left;
+	margin: 100px;
+	}
+
+#nameId {
+	width: 600px;
+	height: 150px;
+	background: turquoise;
+	float: left;
+	padding: 0 0 50px 100px;
+	margin-bottom: 25px;
+	text-align: center;
+	color: lightgray;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+.footer{
+	text-align: center;
+}
+
+
+
